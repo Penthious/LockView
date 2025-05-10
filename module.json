@@ -21,10 +21,10 @@
     ],
     "socket": true,
     "minimumCoreVersion": "11",
-    "compatibleCoreVersion": "12",
+    "compatibleCoreVersion": "13",
     "compatibility": {
         "minimum": "11",
-        "verified": "12"
+        "verified": "13"
     },
     "languages": [
         {
